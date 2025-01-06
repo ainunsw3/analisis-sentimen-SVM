@@ -2,9 +2,9 @@
 Analisis sentimen bertujuan untuk menilai opini pengguna aplikasi yang dapat digunakan sebagai pertimbangan untuk melakukan improvisasi dari hasil analisis sentimen. 
 
 **Set**
-Dataset: Ulasan aplikasi dari Google Play Store 
-Lexicon: VaderSentiment
-Classifier: Support Vector Machine dengan kernel Linear
+- Dataset: Ulasan aplikasi dari Google Play Store 
+- Lexicon: VaderSentiment
+- Classifier: Support Vector Machine dengan kernel Linear
 
 **ALGORITMA**
 - Scraping data
