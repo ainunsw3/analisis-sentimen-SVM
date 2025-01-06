@@ -2,7 +2,7 @@
 Analisis sentimen bertujuan untuk menilai opini pengguna aplikasi yang dapat digunakan sebagai pertimbangan untuk melakukan improvisasi dari hasil analisis sentimen. 
 
 **Set**
-- Dataset: Ulasan aplikasi dari Google Play Store 
+- Dataset: Ulasan aplikasi dari Google Play Store (https://play.google.com/store/apps/details?id=com.glints.candidate)
 - Lexicon: VaderSentiment
 - Classifier: Support Vector Machine dengan kernel Linear
 
